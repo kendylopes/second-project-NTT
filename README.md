@@ -1,2 +1,3 @@
-# second-project-NTT
-Second NTT DATA bootcamp challenge
+# Second NTT DATA Bootcamp challenge
+### Second NTT DATA bootcamp challenge
+### Project based on the main HTML Tags
